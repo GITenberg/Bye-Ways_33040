@@ -1,0 +1,34 @@
+_repo: Bye-Ways_33040
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33040-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert Smythe
+    - Hichens, Robert S. (Robert Smythe)
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: ''
+gutenberg_issued: '2010-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: The charmer of snakes -- A tribute of souls -- An echo in Egypt --
+  The face of the monk -- The man who intervened -- After to-morrow -- A silent guardian
+  -- A boudoir boy -- The tee-to-tum.
+title: Bye-Ways
+url: http://www.gutenberg.org/ebooks/33040
